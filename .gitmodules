@@ -1,0 +1,3 @@
+[submodule "devkits/clic2021-devkit"]
+	path = devkits/clic2021-devkit
+	url = git@github.com:fab-jul/clic2021-devkit.git
